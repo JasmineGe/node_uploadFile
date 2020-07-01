@@ -1,2 +1,10 @@
 # node_uploadFile
-A node example about uploading file
+A simple node example about uploading file
+
+Run command:
+
+```node server.js```
+
+Browser address bar:
+
+```run localhost:3000/form ```
